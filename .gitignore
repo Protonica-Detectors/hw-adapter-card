@@ -1,0 +1,7 @@
+hw-adapter-card-backups/
+fp-lib-table
+sym-lib-table
+*.kicad_prl 
+fp-info-cache
+.history
+*.lck

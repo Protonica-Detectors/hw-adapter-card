@@ -233,9 +233,9 @@
       "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
-      "pin_not_driven": "error",
-      "pin_to_pin": "warning",
-      "power_pin_not_driven": "error",
+      "pin_not_driven": "ignore",
+      "pin_to_pin": "error",
+      "power_pin_not_driven": "ignore",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
@@ -302,7 +302,7 @@
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 0
+      "sort_order": 1
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -412,6 +412,21 @@
       "sort_field": "Reference"
     },
     "bus_aliases": {
+      "LED_SERIAL": [
+        "DATA",
+        "SCK",
+        "LE",
+        "~{OE}"
+      ],
+      "PD_CTRL": [
+        "RST",
+        "CLK",
+        "GAIN",
+        "VIDEO_12",
+        "VIDEO_34",
+        "TRG",
+        "EOS"
+      ],
       "PD_X1": [
         "RST",
         "CLK",
@@ -509,13 +524,21 @@
         "uuid": "87f042ce-f629-4310-aed7-dea93cc7b6f7"
       }
     ],
-    "used_designators": "U3-5,C6,#PWR27-28,TP1-8",
+    "used_designators": "D1-2,#PWR1-63,C1-21,R1-16,J1-7,JP1-8,TP1-8,U1-7",
     "variants": []
   },
   "sheets": [
     [
       "87f042ce-f629-4310-aed7-dea93cc7b6f7",
       "Root"
+    ],
+    [
+      "2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b",
+      "LED Driver"
+    ],
+    [
+      "4abb1a1f-8324-42a5-a74a-0cb17502f086",
+      "Photodiode Array Interface"
     ]
   ],
   "text_variables": {},
