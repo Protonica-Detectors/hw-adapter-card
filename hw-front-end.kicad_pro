@@ -301,7 +301,7 @@
   "schematic": {
     "annotate_start_num": 0,
     "annotation": {
-      "method": 0,
+      "method": 1,
       "sort_order": 1
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
@@ -482,6 +482,15 @@
         "VREF",
         "VGAIN",
         "VPD"
+      ],
+      "S13886_CTRL": [
+        "RST",
+        "CLK",
+        "GAIN",
+        "VIDEO_12",
+        "VIDEO_34",
+        "TRG",
+        "EOS"
       ]
     },
     "connection_grid_size": 50.0,
@@ -512,7 +521,7 @@
     "meta": {
       "version": 1
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "kicad-embed://cartouche.kicad_wks",
     "plot_directory": "",
     "reuse_designators": true,
     "subpart_first_id": 65,
@@ -524,7 +533,7 @@
         "uuid": "87f042ce-f629-4310-aed7-dea93cc7b6f7"
       }
     ],
-    "used_designators": "D1-2,#PWR1-63,C1-21,R1-16,J1-7,JP1-8,TP1-8,U1-7",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
