@@ -256,7 +256,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "hw-adapter-card.kicad_pro",
+    "filename": "hw-front-end.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -528,18 +528,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "hw-adapter-card.kicad_sch",
-        "name": "Root",
+        "filename": "hw-front-end.kicad_sch",
+        "name": "hw-front-end",
         "uuid": "87f042ce-f629-4310-aed7-dea93cc7b6f7"
       }
     ],
-    "used_designators": "",
+    "used_designators": "JP303,JP305",
     "variants": []
   },
   "sheets": [
     [
       "87f042ce-f629-4310-aed7-dea93cc7b6f7",
-      "Root"
+      "hw-front-end"
     ],
     [
       "2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b",

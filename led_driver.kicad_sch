@@ -2698,7 +2698,7 @@
 			(uuid "8154e964-2678-4069-aaf9-2b374b962113")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "C203")
 					(unit 1)
@@ -2791,7 +2791,7 @@
 			(uuid "88c6a1d6-77d8-4c6d-8db0-6260151eb635")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "C201")
 					(unit 1)
@@ -2884,7 +2884,7 @@
 			(uuid "252d3fce-b840-436c-b880-e6346c1de875")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "C206")
 					(unit 1)
@@ -2962,7 +2962,7 @@
 			(uuid "c3016c5c-6d23-43d4-bfe0-476ba794cec3")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "#PWR0202")
 					(unit 1)
@@ -3055,7 +3055,7 @@
 			(uuid "6a86419e-1f96-47fd-a5a6-2d7c94788d0d")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "C202")
 					(unit 1)
@@ -3133,7 +3133,7 @@
 			(uuid "8741b64c-f337-4d28-9d98-b92ae5175bae")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "#PWR0201")
 					(unit 1)
@@ -3210,7 +3210,7 @@
 			(uuid "d53df8e8-1eca-4244-99f2-751b68dd3bbe")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "#PWR0203")
 					(unit 1)
@@ -3289,7 +3289,7 @@
 			(uuid "97aacbc4-1f75-4ff0-8b27-ae808e824026")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "#PWR0204")
 					(unit 1)
@@ -3371,7 +3371,7 @@
 			(uuid "3bff0f9b-4085-493e-94ff-580a8b203877")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "R201")
 					(unit 1)
@@ -3472,7 +3472,7 @@
 			(uuid "45278c2e-fea6-4e96-bd25-6cf431422920")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "J201")
 					(unit 1)
@@ -3549,7 +3549,7 @@
 			(uuid "6da277ca-f5bb-4d2d-b636-ce953828fa64")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "#PWR0208")
 					(unit 1)
@@ -3650,7 +3650,7 @@
 			(uuid "2493afcf-740e-49a8-aad9-b17f14786825")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "J202")
 					(unit 1)
@@ -3727,7 +3727,7 @@
 			(uuid "1524e3f7-117c-4f07-8ef7-63ac0915fd7b")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "#PWR0206")
 					(unit 1)
@@ -3805,7 +3805,7 @@
 			(uuid "51926f51-3163-4817-9db6-5653df626e64")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "#PWR0205")
 					(unit 1)
@@ -3898,7 +3898,7 @@
 			(uuid "ff71f3b4-ebc8-4ca5-ad2b-8ebb42777cde")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "C204")
 					(unit 1)
@@ -4049,7 +4049,7 @@
 			(uuid "c9fb400b-37d6-4438-bf64-a337403e6c52")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "U201")
 					(unit 1)
@@ -4128,7 +4128,7 @@
 			(uuid "4ca30152-e14d-40f8-a79d-7922a8870489")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "#PWR0207")
 					(unit 1)
@@ -4221,7 +4221,7 @@
 			(uuid "82aa8112-c874-489c-9103-9754c2e6eaac")
 		)
 		(instances
-			(project "hw-adapter-card"
+			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/2c5fcb1e-3ed8-4a6d-a4e6-504925f78c6b"
 					(reference "C205")
 					(unit 1)
