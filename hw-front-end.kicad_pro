@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 3.2,
-          "height": 4.8,
-          "width": 4.8
+          "drill": 1.04,
+          "height": 1.55,
+          "width": 1.55
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -76,7 +76,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_edge_clearance|100000000|93340000|976ec589-47a6-4592-8884-8fa75413dcd3|458bdee7-c68f-4341-a205-7949f0d18240",
+          "NORMAL WITH SUCH CONNECTOR"
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -822,7 +827,7 @@
         "uuid": "87f042ce-f629-4310-aed7-dea93cc7b6f7"
       }
     ],
-    "used_designators": "",
+    "used_designators": "R112",
     "variants": []
   },
   "sheets": [

@@ -7252,6 +7252,16 @@
 		)
 		(uuid "56b54cd2-0a0e-4707-9854-987dde9ace19")
 	)
+	(label "TRG_34"
+		(at 139.7 243.84 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5dfe565f-73fa-457d-af77-20c837b07fac")
+	)
 	(label "S13886.EOS_2"
 		(at 323.85 107.95 0)
 		(effects
@@ -7391,6 +7401,16 @@
 			(justify left bottom)
 		)
 		(uuid "aa980b52-663a-4e9b-99d3-679f88762191")
+	)
+	(label "TRG_12"
+		(at 139.7 218.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b13d371f-ae34-44a7-bfdb-2c98539ccc1c")
 	)
 	(label "S13886.CLK_1"
 		(at 323.85 46.99 0)
