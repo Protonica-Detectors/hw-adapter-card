@@ -5904,7 +5904,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
+		(property "Manufacturer" "Wurth Elektronik"
 			(at 55.88 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -6895,7 +6895,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Littlefuse"
+		(property "Manufacturer" "Littelfuse"
 			(at 73.66 73.66 90)
 			(hide yes)
 			(show_name no)
@@ -8741,7 +8741,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Littlefuse"
+		(property "Manufacturer" "Littelfuse"
 			(at 102.87 73.66 90)
 			(hide yes)
 			(show_name no)

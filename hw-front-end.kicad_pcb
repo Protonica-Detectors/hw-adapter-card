@@ -195,7 +195,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x12_Pin"
+		(property "Value" "Conn_02x06_Pin"
 			(at 1.27 15.08 90)
 			(layer "F.Fab")
 			(uuid "55983ddd-8991-43ae-a3e4-8f2f6f119b82")
@@ -217,7 +217,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER R/A 12POS 2.54MM"
+		(property "Description" "CONN HEADER VERTICAL 12POS 2.54MM"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -228,7 +228,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "G800W590018EU"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -241,7 +241,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Amphenol ICC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -607,7 +607,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x12_Pin"
+		(property "Value" "Conn_02x06_Pin"
 			(at 1.27 15.08 90)
 			(layer "F.Fab")
 			(uuid "7a005bc3-5c3c-4f01-99d4-b962be7da328")
@@ -629,7 +629,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER R/A 12POS 2.54MM"
+		(property "Description" "CONN HEADER VERTICAL 12POS 2.54MM"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -640,7 +640,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "G800W590018EU"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -653,7 +653,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Amphenol ICC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2132,7 +2132,7 @@
 				)
 			)
 		)
-		(property "MPN" " OPA350UA/2K5"
+		(property "MPN" "OPA350UA/2K5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5362,7 +5362,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 10V X7R 0805"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6053,7 +6053,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x12_Pin"
+		(property "Value" "Conn_02x06_Pin"
 			(at 1.27 15.08 90)
 			(layer "F.Fab")
 			(uuid "4989340c-d79e-4bed-9220-50f164032af0")
@@ -6075,7 +6075,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER R/A 12POS 2.54MM"
+		(property "Description" "CONN HEADER VERTICAL 12POS 2.54MM"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6086,7 +6086,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "G800W590018EU"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6099,7 +6099,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Amphenol ICC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7117,7 +7117,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Texas Instrument"
+		(property "Manufacturer" "Texas Instruments"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9256,7 +9256,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x08_Pin"
+		(property "Value" "Conn_02x04_Pin"
 			(at 1.27 10 0)
 			(layer "F.Fab")
 			(uuid "7fe77412-927b-4633-9d64-c57bc56622a5")
@@ -9278,7 +9278,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER R/A 8POS 2.54MM"
+		(property "Description" "CONN HEADER VERTICAL 8POS 2.54MM"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9289,7 +9289,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "PR20204VBDN"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9302,7 +9302,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "METZ CONNECT"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10314,7 +10314,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Würth Elektronik"
+		(property "Manufacturer" "Wurth Elektronik"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12267,7 +12267,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x12_Pin"
+		(property "Value" "Conn_02x06_Pin"
 			(at 1.27 15.08 90)
 			(layer "F.Fab")
 			(uuid "8caa02d6-bcb0-4a02-83c2-43ba5401814e")
@@ -12289,7 +12289,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER R/A 12POS 2.54MM"
+		(property "Description" "CONN HEADER VERTICAL 12POS 2.54MM"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12300,7 +12300,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "G800W590018EU"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12313,7 +12313,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Amphenol ICC"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13816,7 +13816,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x08_Pin"
+		(property "Value" "Conn_02x04_Pin"
 			(at 1.27 10 0)
 			(layer "F.Fab")
 			(uuid "cc68dd81-6b87-4622-8329-2845e228972b")
@@ -13838,7 +13838,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER R/A 8POS 2.54MM"
+		(property "Description" "CONN HEADER VERTICAL 8POS 2.54MM"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13849,7 +13849,7 @@
 				)
 			)
 		)
-		(property "MPN" ""
+		(property "MPN" "PR20204VBDN"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13862,7 +13862,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "METZ CONNECT"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -14532,7 +14532,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Texas Instrument"
+		(property "Manufacturer" "Texas Instruments"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -16788,7 +16788,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "Littlefuse"
+		(property "Manufacturer" "Littelfuse"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -18614,7 +18614,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Manufacturer" "Littlefuse"
+		(property "Manufacturer" "Littelfuse"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "B.Fab")
@@ -24950,6 +24950,46 @@
 		(uuid "8c1d666d-4b9c-451a-b488-b2b12dd809b9")
 	)
 	(segment
+		(start 136.805 102.2)
+		(end 135.0375 102.2)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "Net-(U301C-V+)")
+		(uuid "10010721-5b73-4dec-8b87-db051f55e1d5")
+	)
+	(segment
+		(start 135.395 104.095)
+		(end 135.0375 103.7375)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "Net-(U301C-V+)")
+		(uuid "57b754bd-d607-44fc-b31d-5e69fdff5a63")
+	)
+	(segment
+		(start 135.0375 102.2)
+		(end 135.0375 101.9375)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "Net-(U301C-V+)")
+		(uuid "630ab7cc-2ba2-4557-af25-a477e7ae7761")
+	)
+	(segment
+		(start 135.0375 103.7375)
+		(end 135.0375 102.2)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "Net-(U301C-V+)")
+		(uuid "6365fd08-8824-4dd2-8204-b877ae44bc09")
+	)
+	(segment
+		(start 136.475 104.095)
+		(end 135.395 104.095)
+		(width 0.5)
+		(layer "F.Cu")
+		(net "Net-(U301C-V+)")
+		(uuid "d579a8b4-1669-497a-8812-0466d3b9ab2a")
+	)
+	(segment
 		(start 215 119)
 		(end 215 106.6)
 		(width 0.2)
@@ -28084,46 +28124,6 @@
 		(layer "B.Cu")
 		(net "Net-(J102-P24)")
 		(uuid "e2833d89-d972-41a6-8bee-448b469fa5ad")
-	)
-	(segment
-		(start 136.805 102.2)
-		(end 135.0375 102.2)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "Net-(U301C-V+)")
-		(uuid "10010721-5b73-4dec-8b87-db051f55e1d5")
-	)
-	(segment
-		(start 135.395 104.095)
-		(end 135.0375 103.7375)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "Net-(U301C-V+)")
-		(uuid "57b754bd-d607-44fc-b31d-5e69fdff5a63")
-	)
-	(segment
-		(start 135.0375 102.2)
-		(end 135.0375 101.9375)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "Net-(U301C-V+)")
-		(uuid "630ab7cc-2ba2-4557-af25-a477e7ae7761")
-	)
-	(segment
-		(start 135.0375 103.7375)
-		(end 135.0375 102.2)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "Net-(U301C-V+)")
-		(uuid "6365fd08-8824-4dd2-8204-b877ae44bc09")
-	)
-	(segment
-		(start 136.475 104.095)
-		(end 135.395 104.095)
-		(width 0.5)
-		(layer "F.Cu")
-		(net "Net-(U301C-V+)")
-		(uuid "d579a8b4-1669-497a-8812-0466d3b9ab2a")
 	)
 	(zone
 		(net "/CHASSIS")
