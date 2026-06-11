@@ -6,7 +6,7 @@
 	(paper "A3")
 	(title_block
 		(title "Front End Electronics")
-		(date "2026-05-05")
+		(date "2026-06-11")
 		(rev "B.1")
 		(company "Protonica")
 		(comment 1 "Martin Specq")
@@ -2262,6 +2262,171 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:FerriteBead"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "FB"
+				(at -3.81 0.635 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "FerriteBead"
+				(at 3.81 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Ferrite bead"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "L ferrite bead inductor filter"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Inductor_* L_* *Ferrite*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "FerriteBead_0_1"
+				(polyline
+					(pts
+						(xy -2.7686 0.4064) (xy -1.7018 2.2606) (xy 2.7686 -0.3048) (xy 1.6764 -2.159) (xy -2.7686 0.4064)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 0 1.2954)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -1.2192)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "FerriteBead_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.54)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:Opamp_Dual"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3914,6 +4079,12 @@
 		(uuid "16cc64b0-9e03-4c11-9700-94db39ac0ab6")
 	)
 	(junction
+		(at 120.65 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "17a2692d-67e6-4bc1-b2ca-6d01e761a5a9")
+	)
+	(junction
 		(at 292.1 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4044,12 +4215,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6c12ac9c-fa68-4db9-9b11-2b2982a75ce2")
-	)
-	(junction
-		(at 120.65 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6d700b84-f442-4458-9373-dccd020569a2")
 	)
 	(junction
 		(at 119.38 99.06)
@@ -5364,6 +5529,16 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 38.1) (xy 109.22 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "659aaed2-0eff-4c34-8dd8-23c256edd8ba")
+	)
+	(wire
+		(pts
 			(xy 201.93 184.15) (xy 201.93 186.69)
 		)
 		(stroke
@@ -5744,16 +5919,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 36.83) (xy 120.65 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8bb17eba-1d88-4b6e-84cf-2b8f5c5ee3f2")
-	)
-	(wire
-		(pts
 			(xy 130.81 88.9) (xy 130.81 90.17)
 		)
 		(stroke
@@ -5801,6 +5966,16 @@
 			(type default)
 		)
 		(uuid "8de76d2e-7547-465c-b590-c144c2af9da9")
+	)
+	(wire
+		(pts
+			(xy 116.84 38.1) (xy 120.65 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8dfd59eb-3b6b-406a-946f-0fcfa64a6ab8")
 	)
 	(wire
 		(pts
@@ -6801,6 +6976,16 @@
 			(type default)
 		)
 		(uuid "e68084c3-8c80-43c6-8a53-067598a1d24d")
+	)
+	(wire
+		(pts
+			(xy 101.6 36.83) (xy 101.6 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7019153-d1a5-4bf8-9b33-4083c09dbde3")
 	)
 	(wire
 		(pts
@@ -8576,7 +8761,7 @@
 	)
 	(symbol
 		(lib_id "power:+2V5")
-		(at 120.65 36.83 0)
+		(at 101.6 36.83 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8587,7 +8772,7 @@
 		(fields_autoplaced yes)
 		(uuid "18f14063-506f-4426-abb8-dca88e55e455")
 		(property "Reference" "#PWR0301"
-			(at 120.65 40.64 0)
+			(at 101.6 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8598,7 +8783,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 120.65 31.75 0)
+			(at 101.6 31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8608,7 +8793,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.65 36.83 0)
+			(at 101.6 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8619,7 +8804,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 36.83 0)
+			(at 101.6 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8630,7 +8815,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+2V5\""
-			(at 120.65 36.83 0)
+			(at 101.6 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11861,6 +12046,119 @@
 			(project "hw-front-end"
 				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/4abb1a1f-8324-42a5-a74a-0cb17502f086"
 					(reference "#PWR0318")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead")
+		(at 113.03 38.1 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7db86578-2fba-40d0-8771-69bed1f86858")
+		(property "Reference" "FB301"
+			(at 112.9792 30.48 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "220R@100MHz"
+			(at 112.9792 33.02 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.05x1.20mm_HandSolder"
+			(at 113.03 39.878 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 113.03 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "FERRITE BEAD 220 OHM 0805 1LN"
+			(at 113.03 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "BLM21PG221SN1D"
+			(at 113.03 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 113.03 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "L (µH)" ""
+			(at 113.03 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "17fd4b3e-b8ca-490f-b4dd-ae6d4478f6b6")
+		)
+		(pin "2"
+			(uuid "97cc3eda-7b91-4a08-ad9b-3d78cc817a81")
+		)
+		(instances
+			(project "hw-front-end"
+				(path "/87f042ce-f629-4310-aed7-dea93cc7b6f7/4abb1a1f-8324-42a5-a74a-0cb17502f086"
+					(reference "FB301")
 					(unit 1)
 				)
 			)
@@ -16184,25 +16482,28 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
+		(fields_autoplaced yes)
 		(uuid "f4f560b0-a180-4144-a808-8d1056e8c10f")
 		(property "Reference" "U301"
-			(at 110.49 38.1 0)
+			(at 119.38 45.7199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "OPA350"
-			(at 111.76 40.64 0)
+			(at 119.38 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
