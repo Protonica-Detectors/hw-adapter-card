@@ -8049,7 +8049,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER VERTICAL 12POS 2.54MM"
+		(property "Description" "CONN HEADER VERT 12POS 2.54MM"
 			(at 379.73 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8060,7 +8060,7 @@
 				)
 			)
 		)
-		(property "MPN" "G800W590018EU"
+		(property "MPN" "M20-9760642"
 			(at 379.73 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8071,7 +8071,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Amphenol ICC"
+		(property "Manufacturer" "Harwin Inc."
 			(at 379.73 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -8518,7 +8518,7 @@
 				)
 			)
 		)
-		(property "Value" "OPA350"
+		(property "Value" "OPA2350"
 			(at 176.53 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8539,7 +8539,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa350.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1781176353355&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fopa350"
 			(at 176.53 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -8605,7 +8605,7 @@
 				)
 			)
 		)
-		(property "MPN" "OPA350UA/2K5"
+		(property "MPN" "OPA2350UA/2K5"
 			(at 176.53 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -8617,28 +8617,6 @@
 			)
 		)
 		(property "Manufacturer" "Texas Instruments"
-			(at 176.53 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 176.53 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S5.1" ""
 			(at 176.53 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -8893,7 +8871,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER VERTICAL 12POS 2.54MM"
+		(property "Description" "CONN HEADER VERT 12POS 2.54MM"
 			(at 379.73 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -8904,7 +8882,7 @@
 				)
 			)
 		)
-		(property "MPN" "G800W590018EU"
+		(property "MPN" "M20-9760642"
 			(at 379.73 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -8915,7 +8893,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Amphenol ICC"
+		(property "Manufacturer" "Harwin Inc."
 			(at 379.73 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -11435,7 +11413,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER VERTICAL 12POS 2.54MM"
+		(property "Description" "CONN HEADER VERT 12POS 2.54MM"
 			(at 379.73 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -11446,7 +11424,7 @@
 				)
 			)
 		)
-		(property "MPN" "G800W590018EU"
+		(property "MPN" "M20-9760642"
 			(at 379.73 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -11457,7 +11435,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Amphenol ICC"
+		(property "Manufacturer" "Harwin Inc."
 			(at 379.73 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -14380,7 +14358,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER VERTICAL 12POS 2.54MM"
+		(property "Description" "CONN HEADER VERT 12POS 2.54MM"
 			(at 379.73 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -14391,7 +14369,7 @@
 				)
 			)
 		)
-		(property "MPN" "G800W590018EU"
+		(property "MPN" "M20-9760642"
 			(at 379.73 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -14402,7 +14380,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Amphenol ICC"
+		(property "Manufacturer" "Harwin Inc."
 			(at 379.73 199.39 0)
 			(hide yes)
 			(show_name no)
@@ -15088,7 +15066,7 @@
 				)
 			)
 		)
-		(property "Value" "OPA350"
+		(property "Value" "OPA2350"
 			(at 176.53 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15109,7 +15087,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa350.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1781176353355&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fopa350"
 			(at 176.53 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -15175,7 +15153,7 @@
 				)
 			)
 		)
-		(property "MPN" "OPA350UA/2K5"
+		(property "MPN" "OPA2350UA/2K5"
 			(at 176.53 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -15187,28 +15165,6 @@
 			)
 		)
 		(property "Manufacturer" "Texas Instruments"
-			(at 176.53 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 176.53 33.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S5.1" ""
 			(at 176.53 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -16495,7 +16451,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "OPA350"
+		(property "Value" "OPA2350"
 			(at 119.38 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16517,7 +16473,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa350.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1781176353355&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fopa350"
 			(at 118.11 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -16583,7 +16539,7 @@
 				)
 			)
 		)
-		(property "MPN" "OPA350UA/2K5"
+		(property "MPN" "OPA2350UA/2K5"
 			(at 118.11 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -16595,28 +16551,6 @@
 			)
 		)
 		(property "Manufacturer" "Texas Instruments"
-			(at 118.11 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S3.3" ""
-			(at 118.11 46.99 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KLC_S5.1" ""
 			(at 118.11 46.99 0)
 			(hide yes)
 			(show_name no)

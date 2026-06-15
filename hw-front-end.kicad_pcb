@@ -144,10 +144,10 @@
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
-			(usegerberextensions no)
+			(usegerberextensions yes)
 			(usegerberattributes yes)
 			(usegerberadvancedattributes yes)
-			(creategerberjobfile yes)
+			(creategerberjobfile no)
 			(dashed_line_dash_ratio 12)
 			(dashed_line_gap_ratio 3)
 			(svgprecision 4)
@@ -172,9 +172,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "Output/Gerbers/")
 		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x06_P2.54mm_Vertical"
@@ -217,7 +217,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER VERTICAL 12POS 2.54MM"
+		(property "Description" "CONN HEADER VERT 12POS 2.54MM"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -228,7 +228,7 @@
 				)
 			)
 		)
-		(property "MPN" "G800W590018EU"
+		(property "MPN" "M20-9760642"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -241,7 +241,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Amphenol ICC"
+		(property "Manufacturer" "Harwin Inc."
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -629,7 +629,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER VERTICAL 12POS 2.54MM"
+		(property "Description" "CONN HEADER VERT 12POS 2.54MM"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -640,7 +640,7 @@
 				)
 			)
 		)
-		(property "MPN" "G800W590018EU"
+		(property "MPN" "M20-9760642"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -653,7 +653,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Amphenol ICC"
+		(property "Manufacturer" "Harwin Inc."
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2047,7 +2047,7 @@
 				)
 			)
 		)
-		(property "Value" "OPA350"
+		(property "Value" "OPA2350"
 			(at 0 3.4 0)
 			(layer "F.Fab")
 			(uuid "1e6cf402-e870-4236-a426-2de87df94927")
@@ -2058,7 +2058,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/opa350.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1781176353355&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Fopa350"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2132,7 +2132,7 @@
 				)
 			)
 		)
-		(property "MPN" "OPA350UA/2K5"
+		(property "MPN" "OPA2350UA/2K5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2158,34 +2158,8 @@
 				)
 			)
 		)
-		(property "KLC_S3.3" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c94b0298-067c-44e2-9b22-9232bdc005eb")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "KLC_S5.1" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3d18406d-4e16-4e56-846e-2767ca1551dc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* MSOP*3x3mm*P0.65mm* SSOP*2.95x2.8mm*P0.65mm* TSSOP*3x3mm*P0.65mm* VSSOP*P0.5mm* TO?99*")
-		(path "/4abb1a1f-8324-42a5-a74a-0cb17502f086/f4f560b0-a180-4144-a808-8d1056e8c10f")
+		(path "/4abb1a1f-8324-42a5-a74a-0cb17502f086/dffb292e-5f67-438c-ae5f-3f62f97f0857")
 		(sheetname "/Photodiode Array Interface/")
 		(sheetfile "photodiode_interface.kicad_sch")
 		(units
@@ -6075,7 +6049,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER VERTICAL 12POS 2.54MM"
+		(property "Description" "CONN HEADER VERT 12POS 2.54MM"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -6086,7 +6060,7 @@
 				)
 			)
 		)
-		(property "MPN" "G800W590018EU"
+		(property "MPN" "M20-9760642"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6099,7 +6073,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Amphenol ICC"
+		(property "Manufacturer" "Harwin Inc."
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9278,7 +9252,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER VERTICAL 8POS 2.54MM"
+		(property "Description" "CONN HEADER VERT 8POS 2.54MM"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9289,7 +9263,7 @@
 				)
 			)
 		)
-		(property "MPN" "PR20204VBDN"
+		(property "MPN" "M20-9760442"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9302,7 +9276,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "METZ CONNECT"
+		(property "Manufacturer" "Harwin Inc."
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12289,7 +12263,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER VERTICAL 12POS 2.54MM"
+		(property "Description" "CONN HEADER VERT 12POS 2.54MM"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12300,7 +12274,7 @@
 				)
 			)
 		)
-		(property "MPN" "G800W590018EU"
+		(property "MPN" "M20-9760642"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12313,7 +12287,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "Amphenol ICC"
+		(property "Manufacturer" "Harwin Inc."
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13838,7 +13812,7 @@
 				)
 			)
 		)
-		(property "Description" "CONN HEADER VERTICAL 8POS 2.54MM"
+		(property "Description" "CONN HEADER VERT 8POS 2.54MM"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13849,7 +13823,7 @@
 				)
 			)
 		)
-		(property "MPN" "PR20204VBDN"
+		(property "MPN" "M20-9760442"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13862,7 +13836,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "METZ CONNECT"
+		(property "Manufacturer" "Harwin Inc."
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
